@@ -1,0 +1,9 @@
+diff -aurN catfish-0.4.0.2.orig/catfish.in catfish-0.4.0.2/catfish.in
+--- catfish-0.4.0.2.orig/catfish.in	2012-11-06 09:33:14.455266230 +0100
++++ catfish-0.4.0.2/catfish.in	2012-11-06 09:41:01.986151057 +0100
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env bash
++#!/usr/bin/sh
+ 
+ APPNAME=catfish
+ 
